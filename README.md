@@ -311,12 +311,6 @@ If you’d like to include delayed charges during [update_subscription_estimate]
 
 ##Customer
 
-**Create a Customer**
-
-
- ```ruby
- 
-  ```
 
 **Retrieve as Chargebee Customer**
 
@@ -476,13 +470,13 @@ Use the below API method to add the line items to the pending invoice after you 
 
 
 
-## Support and Contribution
+## Support and contribution
 
-If you’d like us to guide you through the set up process or if you have any questions regarding the Ruby gem implementation, contact us at chargebee@spritle.com. For features requests or feedback, submit [here](https://github.com/spritlesoftware/chargebee-rails-subscriptions/issues/new).
+If you’d like us to guide you through the set up process or if you have any questions regarding the Ruby gem implementation, contact us at chargebee@spritle.com. For feature requests or feedback, submit [here](https://github.com/spritlesoftware/chargebee-rails-subscriptions/issues/new).
 
 If you have questions regarding how Chargebee works, send an email to support@chargebee.com. 
 
-## Pull Requests
+## Pull requests
 
 If you’ve added new functionalities that you think might be helpful for all, do send us a pull request.
 
